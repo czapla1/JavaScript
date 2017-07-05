@@ -32,7 +32,7 @@ var length=passwort.length;
 var overshoots=0;
 var yes=new Audio("yes.wav");
 var no=new Audio("no.wav");
-var success= new Audio("applause.mp3");
+var success= new Audio("applause.wav");
 var failure= new Audio("damn-it.wav");
 
 for(i=0;i<passwort.length;i++){
